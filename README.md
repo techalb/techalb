@@ -15,4 +15,9 @@
 🔗 [Instagram: TechAlb.al](https://www.instagram.com/techalb.al) <br/>
 🔗 [Instagram: ProgramePerBiznese](https://www.instagram.com/programeperbiznese) <br/>
 🔗 [Facebook](https://www.facebook.com/techalb) <br/>
-🔗 [YouTube](https://www.youtube.com/channel/UCOcfNyZOfk0qH2PqizmFb6Q)
+🔗 [YouTube](https://www.youtube.com/channel/UCOcfNyZOfk0qH2PqizmFb6Q) <br/>
+
+
+💭 [Read our blog in English](https://techalb.al/blog/?lang=en) <br/>
+💭 [Leggi il nostro blog in Italiano](https://techalb.al/blog/?lang=it) <br/>
+💭 [Lexo blog-un tonë në Shqip](https://techalb.al/blog) <br/>
