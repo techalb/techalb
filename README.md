@@ -9,9 +9,10 @@
 - 👯 We're happy **u're here 😉**
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask us about: **projects we have**
-- 📫 How to reach us: **techalb@hotmail.com or https://techalb.al**
+- 📫 How to reach us: **techalb@hotmail.com or [techalb.al](https://techalb.al)**
 - ⚡ Fun fact: **We love open source**
 
-https://www.instagram.com/techalb.al <br/>
-https://www.instagram.com/programeperbiznese <br/>
-https://www.facebook.com/techalb <br/>
+🔗 [Instagram: TechAlb.al](https://www.instagram.com/techalb.al) <br/>
+🔗 [Instagram: ProgramePerBiznese](https://www.instagram.com/programeperbiznese) <br/>
+🔗 [Facebook](https://www.facebook.com/techalb) <br/>
+🔗 [YouTube](https://www.youtube.com/channel/UCOcfNyZOfk0qH2PqizmFb6Q)
